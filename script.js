@@ -8,17 +8,17 @@
  	for(let i = 0; i < ids.length; i++){
  	if (code == ids[0]) {
  		 
- 		window.location.replace("users/khizer/index.html")
+ 		window.location.replace("users/junaid/index.html")
  		return;	
  	}
  	else if (code == ids[1]) {
  		 
- 		window.location.replace("users/junaid/index.html")
+ 		window.location.replace("users/talha/index.html")
  		return;	
  	}
  	else if (code == ids[2]) {
  		 
- 		window.location.replace("users/khizer/18029.html")
+ 		window.location.replace("users/saeed/index.html")
  		return;	
  	}
  	
