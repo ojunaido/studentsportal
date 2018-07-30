@@ -1,6 +1,6 @@
  
 
- let ids =  ["18029", "18006", "18013"];
+ let ids =  ["18029", "18006", "18013","18024"];
 
  function login(){
  	let code = document.querySelector("#code").value;
@@ -19,6 +19,11 @@
  	else if (code == ids[2]) {
  		 
  		window.location.replace("users/saeed/index.html")
+ 		return;	
+ 	}
+   	else if (code == ids[2]) {
+ 		 
+ 		window.location.replace("users/khizer/index.html")
  		return;	
  	}
  	
